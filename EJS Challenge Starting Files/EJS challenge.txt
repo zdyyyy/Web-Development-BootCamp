@@ -1,0 +1,13 @@
+https://www.geeksforgeeks.org/express-js-res-render-function/
+https://ejs.co/
+https://stackoverflow.com/questions/5404830/node-js-ejs-including-a-partial
+https://getbootstrap.com/docs/4.0/components/forms/
+https://lodash.com/
+https://www.geeksforgeeks.org/lodash-_-lowercase-method/
+https://loremipsum.io/
+https://expressjs.com/en/guide/routing.html
+https://www.google.com/search?q=type+text+javascript&oq=type+text+&aqs=chrome.7.69i57j0i512l9.8572j0j15&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=truncate+string+javascript&oq=truncate+string+&aqs=chrome.0.0i512l2j69i57j0i512l7.3895j1j15&sourceid=chrome&ie=UTF-8
+https://stackoverflow.com/questions/47207964/python-manage-py-startapp-does-not-work
+
+

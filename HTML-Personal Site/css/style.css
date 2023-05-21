@@ -1,0 +1,17 @@
+body {
+    background-color: #B5D5C5;
+}
+h1 {
+    color:aqua;
+}
+
+h3 {
+    color:aqua;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color:grey;
+    border-width: Spx;
+    width: 15%;
+}
